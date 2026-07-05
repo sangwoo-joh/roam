@@ -1,0 +1,36 @@
+---
+layout: page
+title: As Far From Land As Possible
+---
+# [As Far From Land As Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+
+-   맨하탄 거리를 재야한다.
+-   이른바 &ldquo;멀티 소스 BFS&rdquo;를 수행해야 한다. 각 턴마다 같은 턴에 있는 노드들을 한 칸씩 움직인다고 생각하면 된다.
+-   일단 땅을 전부 초기 큐에 넣은 다음에 물로 갈 수 있는 친구들만 계속 움직인다.
+
+```python
+def maxDistance(grid: List[List[int]]) -> int:
+    q, visited, n = deque(), set(), len(grid)
+    for y in range(n):
+        for x in range(n):
+            if grid[y][x] == 1:
+                # initialize all lands
+                q.append((y, x))
+                visited.add((y, x))
+    farthest = -1
+    while q:
+        turns = len(q)  # exhaust all current position
+        while turns:
+            turns -= 1
+            y, x = q.popleft()
+            for ny, nx in ((y+1, x), (y-1, x), (y, x+1), (y, x-1)):
+                if not (0 <= ny < n) or not (0 <= nx < n):
+                    continue
+                if (ny, nx) in visited or grid[ny][nx] != 0:
+                    continue
+                # now (ny, nx) is reachable water
+                q.append((ny, nx))
+                visited.add((ny, nx))
+        farthest += 1
+    return farthest if farthest else -1
+```
