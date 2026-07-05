@@ -135,6 +135,11 @@ plugins:
     layout:
       position: right
       priority: 10
+    options:
+      localGraph:
+        showTags: false
+      globalGraph:
+        showTags: false
   - source: github:quartz-community/search
     enabled: true
     layout:
