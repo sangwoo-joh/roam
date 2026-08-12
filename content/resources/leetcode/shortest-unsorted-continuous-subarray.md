@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array]
 title: Shortest Unsorted Continous Subarray
 ---
+
+관련 개념: [[Array]]
 
 # [Shortest Unsorted Continous Subarray](https://leetcode.com/problems/shortest-unsorted-continous-subarray/)
 

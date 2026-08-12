@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array, two-pointers]
 title: Maximum Points You Can Obtain from Cards
 ---
+
+관련 개념: [[Array]], [[Two Pointers]]
 
 # [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 
@@ -48,8 +50,8 @@ def maxScore(cardPoints, k):
 
 ## 역발상하기
 
- 약간 [`x`를 0으로 만드는 최소 연산
- 횟수](../minimum-operations-to-reduce-x-to-zero) 문제랑 비슷한 접근을
+ 약간 [[Minimum Operations to Reduce X to Zero|`x`를 0으로 만드는 최소 연산
+ 횟수]] 문제랑 비슷한 접근을
  해볼 수 있는데, 바로 카드 점수의 최대값을 구하는게 아니라, 점수의
  합이 최소가 되는 카드의 연속 배열을 구하는 것이다. 그러면 전체 합에서
  최소 점수를 빼면 된다. 참고로 이는 카드 점수가 전부 양수라서 가능한

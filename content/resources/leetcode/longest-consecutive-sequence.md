@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, sorting, hash-table]
+tags: [sorting, hash-table]
 title: Longest Consecutive Sequence.
 last_update: 2023-04-05 09:44:41
 ---
+
+관련 개념: [[Sorting]], [[Hash Table]]
 
 # [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
  정렬되지 않은 정수 배열 `nums` 에 대해서, 연속되는 원소 시퀀스의 가장

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, math]
+tags: [math]
 title: Rectangle Area
 ---
+
+관련 개념: [[Mathematical Techniques]]
 
 # [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 
@@ -22,7 +24,7 @@ title: Rectangle Area
    빠뜨림없이 처리하는 것이다.
  - x, y 축을 기준으로 총 6가지 경우가 있다:
 
-![case-analysis](../images/rectangle-exhaustive-case.svg)
+![case-analysis](images/rectangle-exhaustive-case.svg)
 
  1. Non-overlapping: 안겹치는 경우
  2. Edge overlapping: 모서리가 겹치는 경우
@@ -93,7 +95,7 @@ else:
    겹치는 영역이다.
  - 즉, X축과 Y축이 모두 겹치는 부분이 있어야 겹치는 영역이 있는
    것이고, 위의 수식은 겹치는 다음 네 가지 경우를 모두 포함한다:
-![overlapping](../images/overlapping.svg)
+![overlapping](images/overlapping.svg)
 
  1. 겹치는 부분의 길이: `ax2 - bx1 = min(ax2, bx2) - max(ax1, bx1)`
  2. 겹치는 부분의 길이: `bx2 - ax1 = min(ax2, bx2) - max(ax1, bx1)`

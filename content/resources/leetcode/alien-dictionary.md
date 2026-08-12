@@ -1,13 +1,16 @@
 ---
 layout: page
+tags: [graph]
 title: Alien Dictionary
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)
 
 전형적인 위상 정렬 문제이다. 단어 순서대로 글자를 비교해가면서, 같은 글자이면 얻을 수 있는 정보가 없지만, 서로 다른 글자인 경우 두 글자 사이에 lexicographical order가 있다는 사실을 **딱 한 번** 알 수 있다. 즉, 한 단어에서 하나의 글자 order를 발견했다면 그 이후는 정확한 order를 알 수 없기 때문에 뒤는 버려야 한다.
 
-위상 정렬에 관한 내용은 [Topological Sort](../../theory/topological-ordering) 에 정리해 뒀다. 두 가지 방법이 있는데 하나는 들어오는 엣지 (in-degree edge) 수를 이용한 방법이고 다른 하나는 DFS를 이용하는 방법이다. 두 방법 모두 공통적으로 다음 두 가지 정보가 필요하다:
+위상 정렬에 관한 내용은 [[Graph Algorithms#위상 정렬|Topological Sort]]에 정리해 뒀다. 두 가지 방법이 있는데 하나는 들어오는 엣지 (in-degree edge) 수를 이용한 방법이고 다른 하나는 DFS를 이용하는 방법이다. 두 방법 모두 공통적으로 다음 두 가지 정보가 필요하다:
 
 -   엣지 정보
 -   중복없는 모든 노드의 정보 (엣지로 이어지지 않은 노드도 필요)

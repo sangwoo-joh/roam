@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, hash-table]
+tags: [array, hash-table]
 title: Contains Duplicate
 ---
+
+관련 개념: [[Array]], [[Hash Table]]
 
 # [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 

@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Serialize and Deserialize Binary Tree
 last_update: 2023-04-05 09:47:06
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
@@ -104,8 +106,8 @@ def deserialize(data):
  한 결과와 일치한다(실제로는 trailing null을 다 삭제해도 잘 동작하도록
  되어있다). 이 형식을 한번 시도해보자.
 
- 트리의 BFS는 결국 [레벨 오더
- 순회](../binary-tree-level-order-traversal)와 같다. 큐를 이용해서
+ 트리의 BFS는 결국 [[Binary Tree Level Order Traversal|레벨 오더
+ 순회]]와 같다. 큐를 이용해서
  구현해보자.
 
 ```python

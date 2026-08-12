@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, linked-list]
+tags: [linked-list]
 title: Merge Two Sorted Lists
 ---
+
+관련 개념: [[Linked List]]
 
 # [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 

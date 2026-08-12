@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array]
 title: Minimum Moves to Equal Array Elements II
 last_update: 2023-04-05 09:47:56
 ---
+
+관련 개념: [[Array]]
 
 # [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 

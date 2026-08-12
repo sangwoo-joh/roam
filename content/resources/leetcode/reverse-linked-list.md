@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, linked-list]
+tags: [linked-list]
 title: Reverse Linked List
 last_update: 2023-04-05 09:48:15
 ---
+
+관련 개념: [[Linked List]]
 
 
 # [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)

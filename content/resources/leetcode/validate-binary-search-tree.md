@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Validate Binary Search Tree
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 

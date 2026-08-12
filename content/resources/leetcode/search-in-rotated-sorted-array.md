@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array, binary-search]
 title: Search in Rotated Sorted Array
 ---
+
+관련 개념: [[Array]], [[Binary Search]]
 
 # [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
@@ -20,8 +22,8 @@ title: Search in Rotated Sorted Array
 
 ## 이분 탐색의 다양한 쓰임새
 
- 이것과 유사한 문제로 [회전 정렬된 배열에서 최소값
- 찾기](../find-minimum-in-rotated-sorted-array)가 있다. 이것과 유사한
+ 이것과 유사한 문제로 [[Find Minimum in Rotated Sorted Array|회전 정렬된 배열에서 최소값
+ 찾기]]가 있다. 이것과 유사한
  방법을 사용하면 될 것 같다.
 
  일단 위의 방법으로 회전 정렬된 배열의 최소 값의 위치를 찾았다고
@@ -85,8 +87,8 @@ def search(nums, target):
    보다는 `bisect.bisect_left`를 활용하는 것이 좋다. 이분 탐색을 버그
    없이 제대로 구현하기가 어렵다는 것은 [역사적으로도 증명된
    사실](https://en.wikipedia.org/wiki/Binary_search_algorithm#Implementation_issues)이기
-   때문이다. 자세한 내용은 [Upper Bound & Lower
-   Bound](../../theory/bisect)에 정리해두었다.
+   때문이다. 자세한 내용은 [[Binary Search#경계 찾기|Upper Bound & Lower
+   Bound]]에 정리해두었다.
 
 ### 이분 탐색 두번하기
 

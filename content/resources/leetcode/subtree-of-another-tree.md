@@ -1,8 +1,12 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Subtree of Another Tree
 ---
+
+관련 개념: [[Binary Tree]]
+
+관련 문제: [[Same Tree]]
 
 # [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array]
 title: Monotonic Array
 ---
+
+관련 개념: [[Array]]
 
 # [Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 

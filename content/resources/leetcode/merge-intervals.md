@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, interval]
+tags: [interval]
 title: Merge Intervals
 last_update: 2023-01-25 18:33:30
 ---
+
+관련 개념: [[Interval Algorithms]]
 
 # [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 

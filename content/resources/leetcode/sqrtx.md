@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, binary-search]
+tags: [binary-search]
 title: Sqrt(x)
 ---
+
+관련 개념: [[Binary Search]]
 
 # [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 

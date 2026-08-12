@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Binary Tree Level Order Traversal
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 

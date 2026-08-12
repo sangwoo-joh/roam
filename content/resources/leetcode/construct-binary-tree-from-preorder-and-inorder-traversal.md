@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Construct Binary Tree from Preorder and Inorder Traversal
 last_update: 2023-04-05 09:47:46
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
@@ -20,7 +22,7 @@ last_update: 2023-04-05 09:47:46
 
 ## 해시 테이블 해킹
 
- 이거랑 유사한 문제가 [그래프 클론하기](../clone-graph)인데, 이런 류의
+ 이거랑 유사한 문제가 [[Clone Graph|그래프 클론하기]]인데, 이런 류의
  문제는 주로 (1) 올바른 순서로 탐색하면서 (2) 해시 테이블에 **노드**를
  직접 저장해뒀다가 꺼내 쓰는 것이 주요한 접근으로 보인다.
 

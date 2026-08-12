@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, two-pointers]
+tags: [two-pointers]
 title: Minimum Size Subarray Sum
 ---
+
+관련 개념: [[Two Pointers]]
 
 # [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
  *양수*만 담은 배열 `nums`와 양수 `target`이 주어졌을 때, 합이

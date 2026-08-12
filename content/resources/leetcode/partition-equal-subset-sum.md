@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming]
+tags: [dynamic-programming]
 title: Partition Equal Subset Sum
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 

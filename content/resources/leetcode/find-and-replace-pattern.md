@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string]
 title: Find and Replace Pattern
 ---
+
+관련 개념: [[String]]
 
 # [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 

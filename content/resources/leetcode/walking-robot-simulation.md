@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array]
 title: Walking Robot Simulation
 ---
+
+관련 개념: [[Array]]
 
 # [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)
 

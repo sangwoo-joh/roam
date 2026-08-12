@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, simulation]
+tags: [string, simulation]
 title: Text Justification
 ---
+
+관련 개념: [[String]], [[Simulation]]
 
 # [Text Justification](https://leetcode.com/problems/text-justification/)
  (뱀발: justify 뜻 중에 "인쇄되는 텍스트의 행 끝을 나란히 맞추다"라는

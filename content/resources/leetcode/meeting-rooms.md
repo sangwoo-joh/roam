@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, interval]
+tags: [array, interval]
 title: Meeting Rooms
 last_update: 2023-04-05 09:48:00
 ---
+
+관련 개념: [[Array]], [[Interval Algorithms]]
 
 # [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 

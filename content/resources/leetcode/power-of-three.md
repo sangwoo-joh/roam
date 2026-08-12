@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, math]
+tags: [math]
 title: Power of Three
 ---
+
+관련 개념: [[Mathematical Techniques]]
 
 # [Power of Three](https://leetcode.com/problems/power-of-three/)
 

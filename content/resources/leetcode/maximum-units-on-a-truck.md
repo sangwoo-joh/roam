@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, heap]
+tags: [array, heap]
 title: Maximum Units on a Truck
 ---
+
+관련 개념: [[Array]], [[Heap]]
 
 # [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 

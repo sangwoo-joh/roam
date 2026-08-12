@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, sorting]
+tags: [sorting]
 title: Sort an Array
 ---
+
+관련 개념: [[Sorting]]
 
 # [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 

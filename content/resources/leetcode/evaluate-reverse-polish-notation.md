@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, stack]
+tags: [stack]
 title: Evaluate Reverse Polish Notation
 ---
+
+관련 개념: [[Stack]]
 
 # [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
@@ -14,7 +16,7 @@ title: Evaluate Reverse Polish Notation
 
 ## RPN
 
- [계산기 문제](../basic-calculators)의 `eval` 함수를 그대로 구현하면
+ [[basic-calculator|계산기 문제]]의 `eval` 함수를 그대로 구현하면
  된다. 단, 여기서는 이항 연산자 `-`와 단항 연산자 `-`가 아예
  구분되어서 입력으로 들어온다. 즉, `[2, 1, -]`는 이항 연산이고,
  `[-1]`은 단항 연산이다. 수식을 파싱할 때 양수인지 음수인지를 확인해야

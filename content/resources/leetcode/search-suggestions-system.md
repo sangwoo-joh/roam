@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string, sorting]
 title: Search Suggestions System
 ---
+
+관련 개념: [[String]], [[Sorting]]
 
 # [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
@@ -24,9 +26,8 @@ title: Search Suggestions System
 ## 트라이 말고 정렬 + 필터링
 
  *접두사*라는 문제의 설명 때문에 무지성으로 트라이를 끼얹고 싶은 그런
- 문제이지만, 사실 이와 유사한 문제를 이미 풀어봤다. 바로 [검색
- 자동완성 시스템
- 디자인하기](../design-search-autocomplete-system)이다. 이 문제에서는
+ 문제이지만, 사실 이와 유사한 문제를 이미 풀어봤다. 바로 [[Design
+ Search Autocomplete System|검색 자동완성 시스템 디자인하기]]이다. 이 문제에서는
  처음에 트라이로 접근했지만 생각만큼 속도가 나와주지 않아서
  정렬+필터링의 조합을 적용했었다. 여기서는 곧바로 정렬+필터링 조합을
  적용해보자.

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming]
+tags: [dynamic-programming]
 title: Range Sum Query 2D Immutable
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 
@@ -22,7 +24,7 @@ $$ Sum_{(row_1, col_1) \sim (row_2, col_2)} =  Partial_{(row_2, col_2)} - Partia
 
  이 식을 다음 그림과 같이 살펴보면 다음과 같다.
 
-![partial-sum-2d](../images/partial-sum-2d.png)
+![partial-sum-2d](images/partial-sum-2d.png)
 
  - `D`: 구하고자 하는 값 $$ Sum_{(row_1, col_1) \sim (row_2, col_b2)}
    $$
@@ -54,7 +56,7 @@ $$ Partial_{(row + 1, col + 1)} =  Partial_{(row + 1, col)} + Partial_{(row, col
 
  역시 이 식을 아래 그림과 함께 보면 다음과 같다.
 
-![partial-sum-init](../images/partial-sum-init.png)
+![partial-sum-init](images/partial-sum-init.png)
 
  - 구하고자 하는 값 $$ Partial_{(row + 1, col + 1)} $$ 은 `A+B+C+D`의
    값이다. 이때, 한 칸씩 구하기 때문에 `D`는 곧 `matrix[row][col]` 한

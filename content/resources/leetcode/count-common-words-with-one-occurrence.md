@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python]
+tags: [string, hash-table]
 title: Count Common Words with One Occurrence
 ---
+
+관련 개념: [[String]], [[Hash Table]]
 
 # [Count Common Words with One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)
 

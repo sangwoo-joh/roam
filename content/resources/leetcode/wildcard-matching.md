@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, dynamic-programming]
+tags: [string, dynamic-programming]
 title: Wildcard Matching
 ---
+
+관련 개념: [[String]], [[Dynamic Programming]]
 
 # [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 

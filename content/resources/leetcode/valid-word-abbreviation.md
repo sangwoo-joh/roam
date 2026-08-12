@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string]
 title: Valid Word Abbreviation
 last_update: 2023-11-08 17:18:33
 ---
+
+관련 개념: [[String]]
 
 
 # [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)

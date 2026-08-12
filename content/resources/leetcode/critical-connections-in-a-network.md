@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph, cycle]
+tags: [graph, cycle]
 title: Critical Connections in a Network
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
  `n`개의 서버가 있고 `0`부터 `n-1`까지 번호가 매겨져있다. 서버끼리는

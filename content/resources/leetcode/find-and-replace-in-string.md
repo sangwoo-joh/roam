@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string]
 title: Find And Replace in String
 ---
+
+관련 개념: [[String]]
 
 # [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
 

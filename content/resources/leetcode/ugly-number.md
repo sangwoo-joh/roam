@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, math]
+tags: [math]
 title: Ugly Number
 ---
+
+관련 개념: [[Mathematical Techniques]]
 
 # [Ugly Number](https://leetcode.com/problems/ugly-number/)
 

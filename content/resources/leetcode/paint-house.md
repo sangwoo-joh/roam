@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming]
+tags: [dynamic-programming]
 title: Paint House
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Paint House](https://leetcode.com/problems/paint-house/)
 

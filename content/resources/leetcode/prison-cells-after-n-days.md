@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, simulation]
+tags: [simulation]
 title: Prison Cells After N Days
 last_update: 2023-04-05 09:47:33
 ---
+
+관련 개념: [[Simulation]]
 
 # [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)
  8명을 수용할 수 있는 독방이 있다. 누가 들어가있거나(1) 비어있다(0).

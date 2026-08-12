@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph]
+tags: [graph]
 title: Pacific Atlantic Water Flow
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 

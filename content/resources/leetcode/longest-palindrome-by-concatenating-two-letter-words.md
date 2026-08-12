@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string]
 title: Longest Palindrome by Concatenating Two Letter Words
 ---
+
+관련 개념: [[String]]
 
 # [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
 

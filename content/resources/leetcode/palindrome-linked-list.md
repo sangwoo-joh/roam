@@ -1,9 +1,13 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, linked-list]
+tags: [linked-list, two-pointers]
 title: Palindrome Linked List
 last_update: 2023-01-25 18:33:03
 ---
+
+관련 개념: [[Linked List]], [[Two Pointers]]
+
+관련 문제: [[Middle of the Linked List]], [[Reverse Linked List]]
 
 # [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 

@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, lru-cache]
+tags: [dynamic-programming]
 title: Unique Paths
 last_update: 2023-04-05 09:51:59
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Unique Paths](https://leetcode.com/problems/unique-paths/)
  `m x n` 격자판이 주어지고 왼쪽 제일 위에 로봇이 있다. 로봇은 한 번에

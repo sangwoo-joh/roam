@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming]
+tags: [dynamic-programming]
 title: Coin Change
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Coin Change](https://leetcode.com/problems/coin-change/)
 

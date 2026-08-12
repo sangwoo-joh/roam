@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, two-pointers]
+tags: [string, two-pointers]
 title: Longest Substring Without Repeating Characters
 ---
+
+관련 개념: [[String]], [[Two Pointers]]
 
 # [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
  문자열이 주어졌을 때, 반복되는 문자 없이 만들 수 있는 가장 긴 부분

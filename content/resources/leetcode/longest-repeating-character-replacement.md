@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, two-pointer]
+tags: [string, two-pointers]
 title: Longest Repeating Character Replacement
 ---
+
+관련 개념: [[String]], [[Two Pointers]]
 
 # [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 

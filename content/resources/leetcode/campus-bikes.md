@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, backtracking, bitwise, heap]
+tags: [backtracking, bitwise, heap]
 title: Campus Bikes
 last_update: 2022-12-16 17:18:13
 ---
+
+관련 개념: [[Backtracking]], [[Bitwise Operations]], [[Heap]]
 
 # [Campus Bikes](https://leetcode.com/problems/campus-bikes/)
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array, dynamic-programming]
 title: Maximum Subarray
 ---
+
+관련 개념: [[Array]], [[Dynamic Programming]]
 
 # [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 

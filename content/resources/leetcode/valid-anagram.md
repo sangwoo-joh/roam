@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string, hash-table]
 title: Valid Anagram
 ---
+
+관련 개념: [[String]], [[Hash Table]]
 
 # [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Find Leaves of Binary Tree
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 

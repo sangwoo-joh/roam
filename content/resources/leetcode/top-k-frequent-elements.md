@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, heap]
+tags: [hash-table, heap]
 title: Top K Frequent Elements
 ---
+
+관련 개념: [[Hash Table]], [[Heap]]
 
 # [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 

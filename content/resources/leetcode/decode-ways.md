@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming, string]
+tags: [dynamic-programming, string]
 title: Decode Ways
 ---
+
+관련 개념: [[Dynamic Programming]], [[String]]
 
 # [Decode Ways](https://leetcode.com/problems/decode-ways/)
  `A-Z`를 담은 메시지는 다음과 같은 규칙에 의해서 숫자로 인코딩할 수

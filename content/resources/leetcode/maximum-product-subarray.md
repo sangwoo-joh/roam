@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array, dynamic-programming]
 title: Maximum Product Subarray
 last_update: 2023-04-05 09:46:25
 ---
+
+관련 개념: [[Array]], [[Dynamic Programming]]
 
 # [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -18,7 +20,7 @@ last_update: 2023-04-05 09:46:25
 
 ## O(N^2) - 타임아웃
 
- [부분 배열의 최대 합](../maximum-subarray)랑 비슷한 문제다. 역시
+ [[Maximum Subarray|부분 배열의 최대 합]]이랑 비슷한 문제다. 역시
  비슷하게 Brute Force를 생각해볼 수 있는데, 역시나 타임아웃이 난다.
 
 ```python

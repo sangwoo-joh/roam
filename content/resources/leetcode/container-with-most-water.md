@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array, two-pointers]
 title: Container with Most Water
 ---
+
+관련 개념: [[Array]], [[Two Pointers]]
 
 # [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
 

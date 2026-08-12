@@ -1,8 +1,12 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, interval]
+tags: [interval]
 title: Insert Interval
 ---
+
+관련 개념: [[Interval Algorithms]]
+
+관련 문제: [[Merge Intervals]]
 
 # [Insert Interval](https://leetcode.com/problems/insert-interval/)
 

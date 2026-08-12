@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Jump Game
-tags: [problem-solving, leetcode, python, dynamic-programming]
+tags: [dynamic-programming]
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Jump Game](https://leetcode.com/problems/jump-game/)
 

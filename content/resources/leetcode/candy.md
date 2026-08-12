@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array]
 title: Candy
 ---
+
+관련 개념: [[Array]]
 
 # [Candy](https://leetcode.com/problems/candy/)
 

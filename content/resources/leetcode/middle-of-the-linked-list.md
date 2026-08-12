@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, linked-list]
+tags: [linked-list]
 title: Middle of the Linked List
 last_update: 2023-04-05 09:46:49
 ---
+
+관련 개념: [[Linked List]]
 
 # [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 

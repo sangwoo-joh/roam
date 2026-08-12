@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string, hash-table]
 title: Group Anagrams
 ---
+
+관련 개념: [[String]], [[Hash Table]]
 
 # [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 

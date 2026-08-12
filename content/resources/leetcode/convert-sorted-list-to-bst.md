@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [linked-list, tree]
 title: Convert Sorted List to Binary Search Tree
 last_update: 2023-04-05 09:46:55
 ---
+
+관련 개념: [[Linked List]], [[Binary Tree]]
 
 # [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 

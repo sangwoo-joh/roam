@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, dynamic-programming]
+tags: [string, dynamic-programming]
 title: Longest String Chain
 ---
+
+관련 개념: [[String]], [[Dynamic Programming]]
 
 # [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
 

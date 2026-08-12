@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, math]
+tags: [math]
 title: RLE Iterator
 ---
+
+관련 개념: [[Mathematical Techniques]]
 
 # [RLE Iterator](https://leetcode.com/problems/rle-iterator/)
 

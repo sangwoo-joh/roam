@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array]
 title: Product of Array Except Self
 last_update: 2023-01-25 18:33:39
 ---
+
+관련 개념: [[Array]]
 
 # [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 

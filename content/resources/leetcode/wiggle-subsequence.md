@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, dynamic-programming]
+tags: [array, dynamic-programming]
 title: Wiggle Subsequence
 last_update: 2023-01-25 18:30:07
 ---
+
+관련 개념: [[Array]], [[Dynamic Programming]]
 
 # [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
 

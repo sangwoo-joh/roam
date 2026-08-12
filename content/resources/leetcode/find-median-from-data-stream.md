@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, heap]
+tags: [heap]
 title: Find Median from Data Stream
 ---
+
+관련 개념: [[Heap]]
 
 # [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 

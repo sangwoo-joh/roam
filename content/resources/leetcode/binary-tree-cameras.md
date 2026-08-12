@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Binary Tree Cameras
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
 

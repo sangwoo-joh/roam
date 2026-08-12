@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, ]
+tags: [bitwise]
 title: Single Number
 last_update: 2023-01-25 18:32:50
 ---
+
+관련 개념: [[Bitwise Operations]]
 
 # [Single Number](https://leetcode.com/problems/single-number/)
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, trie]
+tags: [trie]
 title: Stream of Characters
 ---
+
+관련 개념: [[Trie]]
 
 # [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
 
@@ -26,7 +28,7 @@ title: Stream of Characters
 
 ## 트라이
 
- 접미사가 아니라 접두사라면, 이 문제는 [트라이](../../theory/trie)를
+ 접미사가 아니라 접두사라면, 이 문제는 [[Trie|트라이]]를
  이용해서 쉽게 풀 수 있다. 하지만 *접미사*인 점이 까다롭다.
 
  더 큰 문제는, 우리가 탐색해야 할 공간이 고정된 길이의 문자가 아니라

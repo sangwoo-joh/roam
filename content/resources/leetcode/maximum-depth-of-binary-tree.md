@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Maximum Depth of Binary Tree
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
@@ -13,7 +15,7 @@ title: Maximum Depth of Binary Tree
 
 ## 재귀적으로 구하기
 
- 나의 옛날 포스트 [AVL 트리 정복하기](/avl-tree)를 참조하면 좋다.
+ [[Binary Tree|이진 트리 개념]]을 참조하면 좋다.
 
  트리의 깊이는 다음과 같이 재귀적으로 정의된다.
  1. 노드가 null 이면 0

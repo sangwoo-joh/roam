@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, heap]
+tags: [array, heap]
 title: Minimum Deletions to Make Character Frequencies Unique
 ---
+
+관련 개념: [[Array]], [[Heap]]
 
 # [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 

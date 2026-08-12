@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, two-pointers]
+tags: [array, two-pointers]
 title: Minimum Operations to Reduce X to Zero
 ---
+
+관련 개념: [[Array]], [[Two Pointers]]
 
 # [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 
@@ -68,8 +70,8 @@ def minOperations(nums, x):
 
 ## 투 포인터
 
- 이 문제의 최적 알고리즘은 이 문제를 이 문제의 Dual인 [합이 k가 되는
- 최장 부분 배열](../maximum-size-subarray-sum-equals-k) 문제로
+ 이 문제의 최적 알고리즘은 이 문제를 이 문제의 Dual인 [[Maximum Size
+ Subarray Sum Equals k|합이 k가 되는 최장 부분 배열]] 문제로
  치환해서 푸는 것이다. 즉, 양쪽 끝에서 하나씩 원소를 `x`에서 빼서
  `0`을 만드는 게 아니라, 합이 `total - x`가 되는 부분 배열을 찾으면
  된다. 그리고, 원소를 빼는 연산 횟수를 최소로 하라고 했으니, 이 말은

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Invert/Flip Binary Tree
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 

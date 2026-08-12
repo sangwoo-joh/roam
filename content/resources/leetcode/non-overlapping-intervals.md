@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, interval]
+tags: [interval]
 title: Non-overlapping Intervals
 ---
+
+관련 개념: [[Interval Algorithms]]
 
 # [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 
@@ -15,7 +17,7 @@ title: Non-overlapping Intervals
 
 ## O(NlogN)
 
- 유사한 문제인 [범위 합치기](merge-intervals)에서의 방법을 여기서도
+ 유사한 문제인 [[Merge Intervals|범위 합치기]]에서의 방법을 여기서도
  활용해보자. 범위 합치기에서는 시작점을 기준으로 정렬한 다음 끝점을
  비교했는데, 범위를 합칠 때 두 끝점 중 더 큰 끝점을 새로운 끝점으로
  생성했었다. 즉, 여기서도 시작점을 기준으로 정렬을 활용한다면, 끝점도

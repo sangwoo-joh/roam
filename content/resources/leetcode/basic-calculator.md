@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, stack]
+tags: [stack]
 title: Basic Calculators
 last_update: 2023-04-05 09:44:06
 ---
+
+관련 개념: [[Stack]]
 
 # Basic Calculators
  - [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
@@ -179,7 +181,7 @@ def parse(infix_exp):
 
  - 입력이 문자열이기 때문에 이를 토큰으로 쪼개기 위해서 파이썬의
    `re`를 이용해 정규식으로 쪼개었다. 정규식 사용법은
-   [여기](../../theory/regexp)를 참조하자.
+   [[String#정규 표현식|문자열 개념 문서]]를 참조하자.
  - 단항 연산자의 처리를 위해서 토큰의 인덱스가 필요하다.
 
 

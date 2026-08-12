@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, binary-search]
+tags: [array, binary-search, dynamic-programming]
 title: Longest Increasing Subsequence
 ---
+
+관련 개념: [[Array]], [[Binary Search]], [[Dynamic Programming]]
 
 # [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 

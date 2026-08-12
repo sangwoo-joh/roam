@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree, trie]
+tags: [tree, trie]
 title: Design Search Autocomplete System
 ---
+
+관련 개념: [[Binary Tree]], [[Trie]]
 
 # [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)
 

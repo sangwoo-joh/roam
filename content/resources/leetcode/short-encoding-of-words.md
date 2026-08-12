@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, hash-table, trie]
+tags: [string, hash-table, trie]
 title: Short Encoding of Words
 last_update: 2023-04-05 09:48:12
 ---
+
+관련 개념: [[String]], [[Hash Table]], [[Trie]]
 
 # [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
 

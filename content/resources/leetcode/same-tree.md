@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Same Tree
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Same Tree](https://leetcode.com/problems/same-tree/)
 

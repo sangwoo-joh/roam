@@ -1,7 +1,10 @@
 ---
 layout: page
+tags: [graph]
 title: As Far From Land As Possible
 ---
+
+관련 개념: [[Graph Algorithms]]
 # [As Far From Land As Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
 
 -   맨하탄 거리를 재야한다.

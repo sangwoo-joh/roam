@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, hash-table]
+tags: [hash-table]
 title: Pairs of Songs With Total Durations Divisible by 60
 ---
+
+관련 개념: [[Hash Table]]
 
 # [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
  노래 리스트가 주어지고 `i` 번째 노래의 길이는 `time[i]` 초다.

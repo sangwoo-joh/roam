@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, linked-list, heap]
+tags: [linked-list, heap]
 title: Merge k Sorted Lists
 ---
+
+관련 개념: [[Linked List]], [[Heap]]
 
 # [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
@@ -44,7 +46,7 @@ def mergeKLists(lists: List[ListNode]):
 
 
 ## Merge
- [두 개의 정렬된 리스트를 합치는 방법](../merge-two-sorted-lists)을
+ [[Merge Two Sorted Lists|두 개의 정렬된 리스트를 합치는 방법]]을
  그대로 적용해볼 순 없을까? 물론 가능하다. 단, k가 최대 10,000이기
  때문에, 좋지 못한 복잡도를 얻게 된다.
 

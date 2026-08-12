@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, lru-cache]
+tags: [lru-cache, linked-list, hash-table]
 title: LRU Cache
 ---
+
+관련 개념: [[Linked List]], [[Hash Table]]
 
 # [LRU Cache](https://leetcode.com/problems/lru-cache/)
 

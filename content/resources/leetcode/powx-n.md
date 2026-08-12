@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, binary-search]
+tags: [math]
 title: Pow(x, n)
 ---
+
+관련 개념: [[Mathematical Techniques]]
 
 # [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 

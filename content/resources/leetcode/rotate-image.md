@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tips]
+tags: [array, matrix]
 title: Rotate Image
 ---
+
+관련 개념: [[Array]], [[Matrix]]
 
 # [Rotate Image](https://leetcode.com/problems/rotate-image/)
 

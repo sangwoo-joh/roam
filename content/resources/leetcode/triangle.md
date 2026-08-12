@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming]
+tags: [dynamic-programming]
 title: Triangle
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Triangle](https://leetcode.com/problems/triangle/)
 
@@ -20,8 +22,8 @@ title: Triangle
 
 ## 다이나믹.. 프로그래밍..
 
- 꽤 유명한 다이나믹 프로그래밍 문제 중 하나인 것 같다. [경로
- 찾기](../unique-paths)와도 비슷한 문제인데, 여기서는 맵이 격자가
+ 꽤 유명한 다이나믹 프로그래밍 문제 중 하나인 것 같다. [[Unique Paths|경로
+ 찾기]]와도 비슷한 문제인데, 여기서는 맵이 격자가
  아니라 삼각형인 점, 그리고 원소 합의 최소값을 구해야 한다는 점이
  다르다.
 

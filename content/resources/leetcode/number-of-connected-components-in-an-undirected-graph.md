@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph, disjoint-set]
+tags: [graph, disjoint-set]
 title: Number of Connected Components in an Undirected Graph
 ---
+
+관련 개념: [[Graph Algorithms]], [[Disjoint Set]]
 
 # [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
@@ -14,7 +16,7 @@ title: Number of Connected Components in an Undirected Graph
 
 ## DFS
 
- 이거 사실 [섬 개수 구하기](../number-of-islands)와 거의 같은
+ 이거 사실 [[Number of Islands|섬 개수 구하기]]와 거의 같은
  문제이다. 그래서 DFS로 모든 노드를 방문하면서 방문 기록을 남기고,
  방문 안한 노드를 만날 때마다 개수를 1개씩 증가하면 된다. 이때
  그래프가 무향이므로 엣지 정보를 정방향 한번 역방향 한번 총 두 번

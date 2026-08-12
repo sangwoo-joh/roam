@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph, disjoint-set]
+tags: [graph, disjoint-set]
 title: Number of Islands I, II
 last_update: 2023-04-05 09:48:06
 ---
+
+관련 개념: [[Graph Algorithms]], [[Disjoint Set]]
 
 # [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 

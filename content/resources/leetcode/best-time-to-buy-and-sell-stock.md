@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, hash-table]
+tags: [array]
 title: Best Time to Buy and Sell Stock
 ---
+
+관련 개념: [[Array]]
 
 # [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, binary-search]
+tags: [array, binary-search]
 title: Find Minimum in Rotated Sorted Array
 ---
+
+관련 개념: [[Array]], [[Binary Search]]
 
 # [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
@@ -21,8 +23,7 @@ title: Find Minimum in Rotated Sorted Array
 
 ## 이분 탐색으로 Pivot 구하기
 
- 내 블로그 글 중 [이분
- 탐색](../../theory/binary-search/#binary-search-in-rotated-sorted-array)글을
+ [[Binary Search#회전된 정렬 배열|이분 탐색]] 글을
  참조하면 좋다.
 
  요는 피벗, 즉 회전한 부분의 위치를 찾는 것이다. 시간 복잡도가

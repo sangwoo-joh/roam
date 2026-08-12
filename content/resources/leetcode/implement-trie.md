@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree, trie]
+tags: [tree, trie]
 title: Implement Trie
 ---
+
+관련 개념: [[Binary Tree]], [[Trie]]
 
 # [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 

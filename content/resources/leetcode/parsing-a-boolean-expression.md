@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python]
+tags: [string, stack]
 title: Parsing a Boolean Expression
 last_update: 2023-01-25 18:33:46
 ---
+
+관련 개념: [[String]], [[Stack]]
 
 # [Parsing a Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
 

@@ -1,8 +1,12 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string]
 title: Longest Palindromic Substring
 ---
+
+관련 개념: [[String]]
+
+관련 문제: [[Palindromic Substrings]]
 
 # [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 

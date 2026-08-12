@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming, backtracking]
+tags: [dynamic-programming, backtracking]
 title: Matchsticks to Square
 ---
+
+관련 개념: [[Dynamic Programming]], [[Backtracking]]
 
 # [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
 

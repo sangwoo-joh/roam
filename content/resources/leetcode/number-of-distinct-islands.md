@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph]
+tags: [graph]
 title: Number of Distinct Islands
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)
 

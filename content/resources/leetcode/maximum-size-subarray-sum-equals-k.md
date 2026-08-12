@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, two-pointers]
+tags: [array, hash-table]
 title: Maximum Size Subarray Sum Equals k
 ---
+
+관련 개념: [[Array]], [[Hash Table]]
 
 # [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
 
@@ -16,8 +18,8 @@ title: Maximum Size Subarray Sum Equals k
 ## 원소가 양수였다면...!
 
  만약 원소가 전부 양수였다면, 간단한 투 포인터로 쉽게 풀 수 있는
- 문제이다. 특히 원소가 모두 양수일 때의 접근 방법은 [0으로 만드는 최소
- 연산의 횟수](../minimum-operations-to-reduce-x-to-zero)에서도
+ 문제이다. 특히 원소가 모두 양수일 때의 접근 방법은 [[Minimum Operations
+ to Reduce X to Zero|0으로 만드는 최소 연산의 횟수]]에서도
  쓰인다. 그 방법은 다음과 같다.
 
 ```python

@@ -1,11 +1,13 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array, two-pointers]
 title: 3Sum
 <!-- : Problem Solving -->
 <!-- parent: LeetCode -->
 last_update: 2023-04-05 09:45:50
 ---
+
+관련 개념: [[Array]], [[Two Pointers]]
 
 # [3Sum](https://leetcode.com/problems/3sum/)
 
@@ -24,7 +26,7 @@ last_update: 2023-04-05 09:45:50
  있겠지만, 배열 최대 크기가 3000이라서 시간 초과가 날 것이다. N^3보다
  작은 솔루션은 없을까?
 
- [Two Sum II](../two-sum/#two-sum-ii---input-array-is-sorted)의 접근을
+ [[Two Sum#Two Sum II - Input Array Is Sorted|Two Sum II]]의 접근을
  활용해야 한다: 배열이 정렬되어 있을 때, 투 포인터를 이용해 합이
  원하는 값보다 작으면 더 작은 값의 포인터를 더 큰 값을 갖도록
  이동하였고, 합이 더 크다면 더 큰 값의 포인터를 더 작은 값을 갖도록

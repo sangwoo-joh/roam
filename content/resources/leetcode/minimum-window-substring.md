@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, two-pointers]
+tags: [string, two-pointers]
 title: Minimum Window Substring
 ---
+
+관련 개념: [[String]], [[Two Pointers]]
 
 # [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
  두 문자열 `s`랑 `t`가 주어졌을 때, `t`에 있는 모든 문자를 담은 `s`의

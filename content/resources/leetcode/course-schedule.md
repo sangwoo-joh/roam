@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph]
+tags: [graph]
 title: Course Schedule
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
@@ -42,8 +44,8 @@ prerequisites = [(1,0), (0,1)]
  수이고, `prerequisites`는 그래프의 엣지를 나타낸다. 이로부터 그래프를
  그렸을 때, **싸이클**이 있다면, 어떤 수업을 듣기 위해서 선행해야 하는
  과목이 무한 루프를 이루므로 수업을 끝마치는 것(=모든 노드를 방문하는
- 것)이 불가능하다. 따라서, 이 문제는 [그래프에서 싸이클을 찾는
- 방법](../../theory/topological-ordering)을 적용하면 된다.
+ 것)이 불가능하다. 따라서, 이 문제는 [[Graph Algorithms#사이클 판별|그래프에서 싸이클을 찾는
+ 방법]]을 적용하면 된다.
 
  그래프 탐색은 보통 방문 여부를 배열이나 집합으로 기록하면서
  진행된다. 만약 모든 엣지를 따라 나가다가 이전에 방문한 노드를 또

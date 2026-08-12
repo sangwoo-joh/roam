@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, dynamic-programming]
+tags: [string, dynamic-programming]
 title: Interleaving String
 ---
+
+관련 개념: [[String]], [[Dynamic Programming]]
 
 # [Interleaving String](https://leetcode.com/problems/interleaving-string/)
 

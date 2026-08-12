@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string, stack]
 title: Valid Parentheses
 ---
+
+관련 개념: [[String]], [[Stack]]
 
 # [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 

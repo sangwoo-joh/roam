@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, linked-list]
+tags: [linked-list]
 title: Linked List Cycle
 ---
+
+관련 개념: [[Linked List]]
 
 
 # [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)

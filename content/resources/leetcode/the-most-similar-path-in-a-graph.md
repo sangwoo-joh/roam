@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph]
+tags: [graph]
 title: The Most Similar Path in a Graph
 last_update: 2023-04-05 09:52:00
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [The Most Similar Path in a Graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph/)
 

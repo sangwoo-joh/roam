@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array]
 title: Queue Reconstruction by Height
 
 ---
+
+관련 개념: [[Array]]
 
 # [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph]
+tags: [graph]
 title: Is Graph Bipartite?
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
 

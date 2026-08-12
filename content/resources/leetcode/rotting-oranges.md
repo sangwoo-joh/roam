@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph, simulation]
+tags: [graph, simulation]
 title: Rotting Oranges
 last_update: 2023-04-05 09:45:40
 ---
+
+관련 개념: [[Graph Algorithms]], [[Simulation]]
 
 # [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
  `m x n` 격자가 주어지는데 각 쎌은 세 종류의 값을 갖는다.

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, dynamic-programming]
+tags: [string, dynamic-programming]
 title: Longest Common Subsequence
 ---
+
+관련 개념: [[String]], [[Dynamic Programming]]
 
 # [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 

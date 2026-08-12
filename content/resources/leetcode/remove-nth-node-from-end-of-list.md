@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, linked-list]
+tags: [linked-list]
 title: Remove Nth Node from End of List
 ---
+
+관련 개념: [[Linked List]]
 
 # [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 

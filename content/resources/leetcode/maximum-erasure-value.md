@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, two-pointers, hash-table]
+tags: [array, two-pointers, hash-table]
 title: Maximum Erasure Value
 ---
+
+관련 개념: [[Array]], [[Two Pointers]], [[Hash Table]]
 
 # [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 
@@ -19,9 +21,8 @@ title: Maximum Erasure Value
 
 ## 투 포인터 접근
 
- 문제 설명을 읽었을 때 가장 먼저 떠오른 유사 문제는 [반복되는 글자
- 없는 가장 긴 부분
- 문자열](../longest-substring-without-repeating-characters)
+ 문제 설명을 읽었을 때 가장 먼저 떠오른 유사 문제는 [[Longest
+ Substring Without Repeating Characters|반복되는 글자 없는 가장 긴 부분 문자열]]
  문제였다. 해당 문제를 이 문제 식으로 설명하면, 유일한 원소만을 담은
  부분 배열 중 가장 길이가 긴 것을 구하는 문제이다. 여기서는 길이가
  아니라 해당 부분의 *합*을 구하기만 하면 될 것 같았다. 그래서 예전

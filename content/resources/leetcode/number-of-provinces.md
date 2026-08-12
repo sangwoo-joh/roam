@@ -1,8 +1,12 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph]
+tags: [graph]
 title: Number of Provinces
 ---
+
+관련 개념: [[Graph Algorithms]]
+
+관련 문제: [[Number of Islands]]
 
 # [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
  주(Province)의 개수를 세는 문제이다. `n` 개의 도시가 있는데 도시끼리

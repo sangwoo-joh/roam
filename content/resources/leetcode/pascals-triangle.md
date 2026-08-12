@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming]
+tags: [dynamic-programming]
 title: Pascal's Triangle
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 

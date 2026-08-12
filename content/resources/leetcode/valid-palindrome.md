@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, ]
+tags: [string, two-pointers]
 title: Valid Palindrome
 ---
+
+관련 개념: [[String]], [[Two Pointers]]
 
 # [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 

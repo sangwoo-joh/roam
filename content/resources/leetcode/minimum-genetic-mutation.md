@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph]
+tags: [graph]
 title: Minimum Genetic Mutation
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
 

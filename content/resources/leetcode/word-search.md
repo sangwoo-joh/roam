@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, matrix, backtracking, trie]
+tags: [string, matrix, backtracking, trie]
 title: Word Search
 last_update: 2023-01-25 18:30:00
 ---
+
+관련 개념: [[String]], [[Matrix]], [[Backtracking]], [[Trie]]
 
 # [Word Search](https://leetcode.com/problems/word-search/)
 
@@ -127,8 +129,8 @@ def exist(board, word):
     백트래킹을 시작한다. 단어가 있으면 정답에 추가한다.
 
  여기서는 백트래킹을 할 때 트라이 노드를 들고 다녀야 하고, 또 나중에
- 적용될 최적화를 위해서 [이전과 같은 방식으로 트라이를 만들기
- 보다는](../implement-trie), 가볍게 딕셔너리를 이용해서 트라이를
+ 적용될 최적화를 위해서 [[Implement Trie|이전과 같은 방식으로 트라이를 만들기
+ 보다는]], 가볍게 딕셔너리를 이용해서 트라이를
  구성하는 게 좋다. 먼저 트라이를 만드는 코드를 보자.
 
 ```python

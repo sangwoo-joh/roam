@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, graph, tree, cycle, disjoint-set]
+tags: [graph, tree, cycle, disjoint-set]
 title: Graph Valid Tree
 ---
+
+관련 개념: [[Graph Algorithms]], [[Binary Tree]], [[Disjoint Set]]
 
 # [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
  `0`부터 `n-1`까지 레이블링 된 `n` 개의 노드가 있는 그래프가
@@ -34,8 +36,8 @@ title: Graph Valid Tree
  일단 이것부터 제외할 수 있다.
 
 ## Disjoint Set
- 그럼 싸이클은 어떻게 찾으면 될까? [Condition of
- Cycle](/algorithm/tips#condition-of-cycle)에서 했던 것처럼,
+ 그럼 싸이클은 어떻게 찾으면 될까? [[Graph Algorithms#사이클 판별|Condition of
+ Cycle]]에서 했던 것처럼,
  `visited`와 `visiting`을 유지하면서 DFS를 돌리는 것은 어떨까?
  아쉽게도 이 방법은 *유향* 그래프에서만 먹힌다. 우리는 트리, 즉 무향
  그래프를 갖고 있기 때문에 일반적인 그래프 순회로 판단하기는 조금
@@ -116,8 +118,8 @@ def is_valid_tree(n, edges):
    상속받아서 `__missing__` 메소드를 제공하면, `dict[x]`를 할 때
    `KeyError` 예외가 발생한 순간 `__missing__`을 호출해서 디폴트 값을
    처리한다. 종종 쓰이는 테크닉이다.
- - [섬의 개수를 세던
-   문제](/leetcode/number-of-islands#optimized-disjoint-set)처럼
+ - [[Number of Islands#Optimized Disjoint Set|섬의 개수를 세던
+   문제]]처럼
    개수를 셀 필요는 없지만, 여기에 쓰인 최적화인 경로 압축은
    적용해뒀다.
  - `union`을 시도할 때 이미 같은 집합을 합치려는 시도가 발견되면

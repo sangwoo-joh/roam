@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming, lru-cache]
+tags: [dynamic-programming]
 title: Minimum Difficulty of a Job Schedule
 last_update: 2023-04-05 09:46:14
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
  `d` 일의 기간 안에 업무 일정을 스케쥴링 하려고 한다. 업무는 서로

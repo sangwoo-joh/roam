@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string, dynamic-programming]
+tags: [string, dynamic-programming]
 title: Delete Operation for Two Strings
 ---
+
+관련 개념: [[String]], [[Dynamic Programming]]
 
 # [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 
@@ -31,7 +33,7 @@ def minDistance(word1, word2):
  즉, 위와 같이 공통된 글자만 남겨버리면, 글자 간의 *순서*를
  무시해버리기 때문에 올바른 답을 구할 수 없다.
 
- 이 문제는 [공통 부분열의 최장 길이](../longest-common-subsequence)
+ 이 문제는 [[Longest Common Subsequence|공통 부분열의 최장 길이]]
  문제를 응용하면 쉽게 풀린다. 즉, 최소의 삭제 연산으로 남기는 최종
  결과물이 곧 두 문자열의 공통 부분열 중 가장 긴 문자열인
  것이다. 따라서, LCS를 알면 위의 틀린 접근의 수식과 거의 유사한

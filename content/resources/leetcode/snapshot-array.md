@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, binary-search]
+tags: [array, binary-search]
 title: Snapshot Array
 last_update: 2023-04-05 09:51:58
 ---
+
+관련 개념: [[Array]], [[Binary Search]]
 
 # [Snapshot Array](https://leetcode.com/problems/snapshot-array/)
 
@@ -42,7 +44,7 @@ last_update: 2023-04-05 09:51:58
  배열의 배열로, `List[List[Tuple[int, int]]]`가 된다. 바깥 배열은
  `index`로 접근 가능하다. 안쪽 배열은 `(스냅샷 아이디, 값)`의 튜플을
  가진 배열로, `set()`이 호출될 때마다 끝부분에 추가된다. 이렇게하면
- [이분 탐색](../../theory/bisect)의 아이디어를 빌려, 가장 최근
+ [[Binary Search|이분 탐색]]의 아이디어를 빌려, 가장 최근
  스냅샷의 가장 최근에 추가된 값은 `snap_id`를 이용해서 찾은 Upper
  Bound 바로 직전 위치에 있게 된다.
 

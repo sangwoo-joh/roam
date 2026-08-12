@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, dynamic-programming]
+tags: [dynamic-programming]
 title: Climbing Stairs
 ---
+
+관련 개념: [[Dynamic Programming]]
 
 # [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 

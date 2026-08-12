@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, hash-table]
+tags: [hash-table]
 title: Two Sum
 ---
+
+관련 개념: [[Hash Table]]
 
 # [Two Sum](https://leetcode.com/problems/two-sum/)
  상징적인 리트코드 1번 문제다.

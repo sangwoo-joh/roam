@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array, interval]
+tags: [array, interval]
 title: Count Odd Numbers in an Interval Range
 ---
+
+관련 개념: [[Array]], [[Interval Algorithms]]
 
 # [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 

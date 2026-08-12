@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, hash-table]
+tags: [array, two-pointers]
 title: Remove Duplicates from Sorted Array
 ---
+
+관련 개념: [[Array]], [[Two Pointers]]
 
 # [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
  정렬된 배열이 들어오면, 여기서 중복되는 원소를 **제자리에서**

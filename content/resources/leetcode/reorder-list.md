@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, linked-list]
+tags: [linked-list]
 title: Reorder List
 last_update: 2023-04-05 09:46:45
 ---
+
+관련 개념: [[Linked List]]
 
 # [Reorder List](https://leetcode.com/problems/reorder-list/)
 
@@ -26,9 +28,9 @@ Node(0) -> Node(n) -> Node(1) -> Node(n-1) -> Node(2) -> Node(n-2) -> ...
  문제를 잘 읽어야 한다. ~~처음에는 짝수/홀수 번째 리스트 노드를
  교차하는 건줄 알았는데 그게 아니었다.~~ 잘 보면 논리적으로 다음
  스텝을 밟는다는 것을 알 수 있다:
- 1. [리스트의 중간 지점을 찾는다.](../middle-of-the-linked-list)
- 2. [중간부터 끝까지를 뒤집는다.](../reverse-linked-list)
- 3. 처음~중간까지의 리스트와 중간~끝까지 뒤집힌 [리스트를 합친다.](../merge-two-sorted-lists)
+ 1. [[Middle of the Linked List|리스트의 중간 지점을 찾는다.]]
+ 2. [[Reverse Linked List|중간부터 끝까지를 뒤집는다.]]
+ 3. 처음~중간까지의 리스트와 중간~끝까지 뒤집힌 [[Merge Two Sorted Lists|리스트를 합친다.]]
 
  각각이 이미 이전에 나온 문제들이다. 따라서 이전 방법들을 조합해서 풀
  수 있다.

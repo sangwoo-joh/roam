@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, ]
+tags: [string]
 title: Encode and Decode Strings
 ---
+
+관련 개념: [[String]]
 
 # [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, backtracking]
+tags: [backtracking]
 title: Combination Sum
 ---
+
+관련 개념: [[Backtracking]]
 
 # [Combination Sum](https://leetcode.com/problems/combination-sum/)
 

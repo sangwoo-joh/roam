@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree]
+tags: [tree]
 title: Binary Tree - Maximum Path Sum
 ---
+
+관련 개념: [[Binary Tree]]
 
 # [Binary Tree - Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 

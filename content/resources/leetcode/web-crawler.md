@@ -1,7 +1,10 @@
 ---
 layout: page
+tags: [graph]
 title: Web Crawler
 ---
+
+관련 개념: [[Graph Algorithms]]
 
 # [Web Crawler](https://leetcode.com/problems/web-crawler/)
 

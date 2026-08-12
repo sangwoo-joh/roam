@@ -1,9 +1,11 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, array]
+tags: [array]
 title: Non-decreasing Array
 last_update: 2023-04-05 09:47:29
 ---
+
+관련 개념: [[Array]]
 
 # [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
 

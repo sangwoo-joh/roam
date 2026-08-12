@@ -1,8 +1,12 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, tree, string]
+tags: [string, trie, backtracking]
 title: Design Add and Search Words Data Structure
 ---
+
+관련 개념: [[String]], [[Trie]], [[Backtracking]]
+
+관련 문제: [[Implement Trie]]
 
 # [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 

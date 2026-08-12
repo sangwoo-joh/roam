@@ -1,8 +1,10 @@
 ---
 layout: page
-tags: [problem-solving, leetcode, python, string]
+tags: [string]
 title: Roman to Integer
 ---
+
+관련 개념: [[String]]
 
 # [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
