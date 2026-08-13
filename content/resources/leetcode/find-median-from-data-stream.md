@@ -8,7 +8,7 @@ title: Find Median from Data Stream
 
 # [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
- 배열에서 **중앙값(median)**이란 정렬된 배열의 중간에 위치한
+ 배열에서 **중앙값**(median)이란 정렬된 배열의 중간에 위치한
  값이다. 배열 사이즈가 홀수면 정중앙의 값이고, 짝수이면 중간의 두 값의
  평균값이다.
  - `[2,3,4]`의 중앙값은 `3`
